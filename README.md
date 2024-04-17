@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @haydentomas
+- 👋 Hi, My name is Hayden Tomas
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Javascript & Python
-- 💞️ I’m looking to collaborate on Javascripts projects
+- 🌱 I’m currently learning Javascript and AstroJS 
+- 💞️ I’m looking to collaborate on Javascript projects
 - 📫 Contact me at hello@pixaful.com
 
 <!---
