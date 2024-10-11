@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Hayden Tomas
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Javascript and AstroJS 
-- 💞️ I’m looking to collaborate on Javascript projects
+- 🌱 I’m currently learning PHP and AstroJS 
+- 💞️ I’m looking to collaborate on PHP projects
 - 📫 Contact me at hello@pixaful.com
 
 <!---
